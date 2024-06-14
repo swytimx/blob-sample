@@ -1,0 +1,10 @@
+{
+    "require": {
+        "microsoft/azure-storage-blob": "^1.5"
+    }
+}
+
+
+//composer require microsoft/azure-storage-blob
+
+//https://packagist.org/packages/microsoft/azure-storage-blob
